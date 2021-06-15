@@ -1,0 +1,23 @@
+#container {
+    right: -1080px;
+    float:relative;
+
+} 
+body { 
+        margin: 0px;
+        padding: 0px;
+        background-color: rgb(202, 179, 201);
+        color: #c8b1c6;
+}
+img{
+    position:relative;
+    margin-top: 500px;
+    margin-left:550px;
+    z-index: 4;
+}
+canvas {
+    position:relative;
+    top: -150px;
+    left: -200px;
+    z-index: 0;
+}
